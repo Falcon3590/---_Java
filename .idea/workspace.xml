@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0720e70-60cc-4550-aab6-871a1c3b9ade" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ООП_Java.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Clone/More-homeworks-Intro-Java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Animal.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Animal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Bat.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Bat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Duck.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Duck.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Flyable.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Flyable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Hare.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Hare.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Herbivores.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Herbivores.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Predator.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Predator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Radio.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Radio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Sayable.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Sayable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Walkable.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Walkable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Wolf.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Wolf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/seminar2_OOP/src/Zoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar2_OOP/src/Zoo.java" afterDir="false" />
-    </list>
+    <list default="true" id="f0720e70-60cc-4550-aab6-871a1c3b9ade" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,11 +18,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/vi/Desktop/Учеба в GB/ООП_Java/OopSem4"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="ООП_Java" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="ООП_Java" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
