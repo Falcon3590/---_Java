@@ -35,10 +35,13 @@ public class ViewUser {
                         break;
                     case UPDATE:
                         updateUser();
+                        break;
                     case DELETE:
                     	deleteUser();
+                        break;
                     case SAVENEW:
                     	saveNew();
+                        break;
 
                 }
 

@@ -4,7 +4,21 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f0720e70-60cc-4550-aab6-871a1c3b9ade" name="Changes" comment="" />
+    <list default="true" id="f0720e70-60cc-4550-aab6-871a1c3b9ade" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/HomeWork/Reportable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/HomeWork/Saveable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_5_OOP/src/personal/views/ViewUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar_5_OOP/src/personal/views/ViewUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/HomeWork/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/Persister.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/User.java" beforeDir="false" afterPath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/HomeWork/User.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/out/production/HomeWork/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/out/production/HomeWork/Persister.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/seminar_6_OOP/OOP_Lesson6_Solid/HomeWork/out/production/HomeWork/User.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/users.txt" beforeDir="false" afterPath="$PROJECT_DIR$/users.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/usersNewSave.txt" beforeDir="false" afterPath="$PROJECT_DIR$/usersNewSave.txt" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,7 +35,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/vi/Desktop/Учеба в GB/ООП_Java/OopSem4"
+    "last_opened_file_path": "C:/Users/vi/Desktop/Учеба в GB/ООП_Java"
   }
 }]]></component>
   <component name="RunManager">
