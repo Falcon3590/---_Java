@@ -1,6 +1,6 @@
 package HomeWork;
 
-public class User implements Saveable, Reportable{
+public class User {
 
 	//Приватное поле имя
 	private String name;
@@ -15,15 +15,5 @@ public class User implements Saveable, Reportable{
 		return name;
 	}
 
-	@Override
-	//ф-ция реализованная из интерфейса Reportable
-	public void report(){
-		System.out.println("Report for user: " + getName());
-	}
 
-	//ф-ция реализованная из интерфейса Saveable
-	@Override
-	public void save() {
-		System.out.println("Save user: " + getName());
-	}
 }
